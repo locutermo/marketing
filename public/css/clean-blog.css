@@ -418,3 +418,67 @@ footer .copyright {
   font-size: 16px;
   padding: 25px 35px;
 }
+
+/* Marketing */
+#containerStudents{
+  padding-right: 100px;
+  padding-left: 100px;
+}
+#studentsTitleContainer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 15px ;  
+}
+#rowSillabus{
+  padding-left: 10px;
+}
+.fa-file-word{
+  color: blue;
+}
+.fa-file-powerpoint{
+  color: red;
+}
+.centerContainer{
+  display: flex;
+  align-items: center; 
+  justify-content: center; 
+}
+
+.center{
+  text-align: center;
+}  
+
+.downloadText{
+  font-size: 17px;
+  font-weight: bold;
+  font-family: 'Times New Roman', serif;
+}
+#containerIntroduction{
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+#unmsmLogo{
+  width: 200px;
+  height: 200px;
+}
+.logoContainer{
+  padding: 10px;
+  margin: 10px;
+}
+.paddingRight{
+  padding-right: 10px;
+  margin: 0px;
+}
+.teachers{
+  list-style: none;
+  padding: 0;
+}
+.spanObjective{
+  font-family: 'Lora', 'Times New Roman', serif;
+  /* font-style: italic; */
+  color: #868e96;
+}
+.listsObjective{
+  list-style: decimal;    
+}
