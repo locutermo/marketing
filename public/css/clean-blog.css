@@ -482,3 +482,9 @@ footer .copyright {
 .listsObjective{
   list-style: decimal;    
 }
+
+.blockText{
+  size: 12px; 
+  font-style: normal;
+  
+}
